@@ -1,16 +1,19 @@
-### Hi there 👋
+### Olá Mundo, Thayane por aqui!
 
-<!--
-**ThayaneMoreira/thayanemoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🏢 Iniciante em Data Science;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Graduanda em Administração;
+
+✒️ 10 anos de experiência em  Análise de Processos e Relacionamento com clientes;
+
+📚 Aprendendo Python e Power BI
+
+⚡ Amante da praia e gateira de coração!
+
+---
+
+[![](https://img.shields.io/badge/Linkedin-9ed0d5)](https://www.linkedin.com/in/thayane-moreira/)
+[![](https://img.shields.io/badge/Instagram-eebcc1)](https://www.instagram.com/thayanesm/)
+
