@@ -4,7 +4,7 @@
 
 🏢 Iniciante em Data Science;
 
-💻 Graduanda em Administração;
+💻 Graduanda em Administração de Empresas;
 
 ✒️ 10 anos de experiência em  Análise de Processos e Relacionamento com clientes;
 
