@@ -2,7 +2,7 @@
 
 ---
 
-🏢 Iniciante em Data Science;
+🏢 Data Analyst;
 
 💻 Graduanda em Administração de Empresas;
 
