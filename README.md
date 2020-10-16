@@ -8,7 +8,7 @@
 
 ✒️ 10 anos de experiência em  Análise de Processos e Relacionamento com clientes;
 
-📚 Aprendendo Python e Power BI;
+📚 Aprendendo Python;
 
 ⚡ Amante da praia e gateira de coração!
 
