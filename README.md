@@ -2,7 +2,7 @@
 
 ---
 
-🏢 Data Analyst;
+🏢 Em transição de carreira, buscando conhecimentos para me tornar Data Analyst;
 
 💻 Graduanda em Administração de Empresas;
 
